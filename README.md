@@ -1,5 +1,8 @@
-banana grande
-
-GIT ADD *NOME DO ARQUIVO*
-GIT COMMIT -M "*MENSAGEM SOBRE O COMMIT*"
-GIT PUSH
+# tags html 
+- body
+- turtle
+- head
+- img
+- table
+- p
+- a
